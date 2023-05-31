@@ -1,10 +1,10 @@
 # Created by
 
-**6330440921 Bhuribhat Ratansasanguanvongs**
+**Bhuribhat Ratansasanguanvongs**
 
-**6330076121 Chanawat Voravijitchaikul**
+**Chanawat Voravijitchaikul**
 
-**6330585221 Akkharawat Burachokviwat**
+**Akkharawat Burachokviwat**
 
 Medium Link: https://medium.com/@EarthAkkharawat/real-time-vehicle-detection-and-counting-using-the-background-subtractor-comparing-with-haar-ff05f9ab2b92
 
